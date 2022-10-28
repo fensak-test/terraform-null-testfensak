@@ -6,7 +6,7 @@ This module creates a null resource that represents a VPC and can be used for te
 
 ```terraform
 module "vpc" {
-    source = "fensak-io/testfensak/null//vpc
+    source = "fensak-io/testfensak/null//vpc"
 
     name = "my-vpc"
     cidr = "10.0.0.0/16"
