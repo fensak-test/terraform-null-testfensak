@@ -4,7 +4,7 @@ This module creates a null resource that represents a VPC and can be used for te
 
 ## Usage
 
-```hcl
+```terraform
 module "vpc" {
     source = "fensak-io/testfensak/null//vpc
 
