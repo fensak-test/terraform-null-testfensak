@@ -1,5 +1,7 @@
 # Null VPC Module
 
+__This is an unvalidated release__
+
 This module creates a null resource that represents a VPC and can be used for testing purposes.
 
 ## Usage
