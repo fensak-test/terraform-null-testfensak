@@ -1,5 +1,5 @@
 module "label" {
-  source = "${path.module}/../withdep"
+  source = "../withdep"
 }
 
 output "tags" {
