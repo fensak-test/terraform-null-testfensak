@@ -9,7 +9,7 @@ module "eg_prod_bastion_label" {
   delimiter  = "-"
 
   tags = {
-    "BusinessUnit" = "XYZ",
+    "BusinessUnit" = "XYZA",
     "Snapshot"     = "true"
   }
 }
